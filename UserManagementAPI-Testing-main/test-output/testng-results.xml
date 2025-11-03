@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-03T22:21:25 IST" name="API Automation Suite" finished-at="2025-11-03T22:21:27 IST" duration-ms="1852">
+    <groups>
+    </groups>
+    <test started-at="2025-11-03T22:21:25 IST" name="User Management Tests" finished-at="2025-11-03T22:21:27 IST" duration-ms="1852">
+      <class name="com.qaautomation.tests.DeleteUserTest">
+        <test-method signature="testDeleteUser()[pri:0, instance:com.qaautomation.tests.DeleteUserTest@534a5a98]" started-at="2025-11-03T22:21:27 IST" name="testDeleteUser" finished-at="2025-11-03T22:21:27 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- com.qaautomation.tests.DeleteUserTest -->
+      <class name="com.qaautomation.tests.UpdateUserTest">
+        <test-method signature="testUpdateUser()[pri:0, instance:com.qaautomation.tests.UpdateUserTest@5a45133e]" started-at="2025-11-03T22:21:27 IST" name="testUpdateUser" finished-at="2025-11-03T22:21:27 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+      </class> <!-- com.qaautomation.tests.UpdateUserTest -->
+      <class name="com.qaautomation.tests.PostUserTest">
+        <test-method signature="testCreateUser()[pri:0, instance:com.qaautomation.tests.PostUserTest@1ed6388a]" started-at="2025-11-03T22:21:27 IST" name="testCreateUser" finished-at="2025-11-03T22:21:27 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+      </class> <!-- com.qaautomation.tests.PostUserTest -->
+      <class name="com.qaautomation.tests.GetUsersTest">
+        <test-method signature="testGetAllUsers()[pri:0, instance:com.qaautomation.tests.GetUsersTest@2d710f1a]" started-at="2025-11-03T22:21:25 IST" name="testGetAllUsers" finished-at="2025-11-03T22:21:27 IST" duration-ms="1677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllUsers -->
+      </class> <!-- com.qaautomation.tests.GetUsersTest -->
+    </test> <!-- User Management Tests -->
+  </suite> <!-- API Automation Suite -->
+</testng-results>
